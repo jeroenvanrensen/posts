@@ -2,7 +2,7 @@
 title: The free Gmail SMTP server
 slug: gmail-smtp-server
 publish_date: 2021-02-15
-tags: laravel, google, email
+tags: Laravel, Google, Email
 ---
 
 In this tutorial, I'm going to show you how to configure the Gmail SMTP server with Laravel. Usually, when you want to send emails you have to pay for some service. But using the Gmail server you can do it for free!

@@ -2,7 +2,7 @@
 title: Nested comments in Laravel
 slug: nested-comments
 publish_date: 2021-03-22
-tags: laravel
+tags: Laravel
 ---
 
 Last week I added a nested comments feature to my blog. You can see it at the bottom of [this post](https://www.jeroenvanrensen.nl/blog/uuids-in-laravel), where I received a few comments. In this post, I would like to tell you how I added this feature.

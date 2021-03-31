@@ -2,7 +2,7 @@
 title: The TALL stack explained
 slug: tall-stack
 publish_date: 2021-02-21
-tags: tailwind css, alpine js, laravel, livewire
+tags: Tailwind CSS, Alpine.js, Laravel, Livewire
 ---
 
 The TALL stack is a set of frameworks to build interactive apps using Laravel. It stands for [Tailwind CSS](https://tailwindcss.com/), [Alpine.JS](https://github.com/alpinejs/alpine), [Laravel](https://laravel.com/), and [Livewire](https://laravel-livewire.com/). In this article, I'm going to explain all of them. So let's start!

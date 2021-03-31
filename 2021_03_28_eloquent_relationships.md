@@ -2,7 +2,7 @@
 title: Eloquent relationships explained (with examples)
 slug: eloquent-relationships
 publish_date: 2021-03-28
-tags: laravel, eloquent
+tags: Laravel, Eloquent
 ---
 
 In my opinion, [Eloquent](https://laravel.com/docs/8.x/eloquent) is one of the most powerful features of Laravel. It is an API for interacting with your database, and it has a very nice and easy-to-remember syntax. For example:

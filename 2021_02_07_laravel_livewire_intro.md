@@ -2,7 +2,7 @@
 title: 'Laravel Livewire: an introduction'
 slug: laravel-livewire-intro
 publish_date: 2021-02-07
-tags: laravel, livewire
+tags: Laravel, Livewire
 ---
 
 [Laravel Livewire](https://laravel-livewire.com/) is a great framework for creating interactive web apps without writing any JavaScript. In this tutorial we're going to make a few components using Laravel Livewire so we can see the power of this framework.
