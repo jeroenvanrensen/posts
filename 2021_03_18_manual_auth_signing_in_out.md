@@ -13,7 +13,7 @@ These topics will be covered:
 
 - [Registering](https://www.jeroenvanrensen.nl/blog/manual-auth-registering)
 - **Signing in and signing out**
-- Password confirmation
+- [Password confirmation](https://www.jeroenvanrensen.nl/blog/manual-auth-password-confirmation)
 - Email verification
 - Password reset
 
