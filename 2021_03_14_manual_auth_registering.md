@@ -1,5 +1,5 @@
 ---
-title: Manual auth in Laravel: registering
+title: 'Manual auth in Laravel: registering'
 slug: manual-auth-registering
 publish_date: 2021-03-14
 tags: laravel, manual auth, auth
