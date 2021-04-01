@@ -21,7 +21,7 @@ These topics will be covered:
 
 ## Getting started
 
-First we'll create a controller to load a view:
+First, we'll create a controller to load a view:
 
 ```php
 // app/Http/Controllers/Auth/PasswordConfirmationController.php
@@ -108,7 +108,7 @@ If the password was correct, we will tell Laravel that the password was correct.
 session()->passwordConfirmed();
 ```
 
-Finally, we will redirect the user as intented after a success.
+Finally, we will redirect the user as intended after a success.
 
 ```php
 // app/Http/Controllers/Auth/PasswordConfirmationController.php
@@ -118,7 +118,7 @@ return redirect()->intended();
 
 ## Conclusion
 
-Where as registering and signing in and out does not use much of Laravel's authentication features, confirming a password does. However, you still have a lot of freedom as to how you want to implement it.
+Whereas registering and signing in and out does not use much of Laravel's authentication features, confirming a password does. However, you still have a lot of freedom as to how you want to implement it.
 
 If you at some point couldn't follow the tutorial anymore, this is the finished `Auth\PasswordConfirmationController`:
 
