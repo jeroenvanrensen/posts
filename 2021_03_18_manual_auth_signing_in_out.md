@@ -2,7 +2,7 @@
 title: 'Manual auth in Laravel: signing in and out'
 slug: manual-auth-signing-in-out
 publish_date: 2021-03-18
-tags: Laravel, Manual auth, Authentication
+tags: Manual auth, Authentication
 ---
 
 With the arrival of Laravel 8, new ways for authentication have been added to the Laravel ecosystem. [Fortify](https://laravel.com/docs/8.x/fortify), [Jetstream](https://jetstream.laravel.com/2.x/introduction.html) and [Breeze](https://github.com/laravel/breeze). Although these tools can save you a lot of time, often when you want something more complex they cost you more time.

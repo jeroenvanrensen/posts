@@ -2,7 +2,7 @@
 title: How to use UUIDs in URLs in Laravel
 slug: uuids-in-laravel
 publish_date: 2021-03-10
-tags: Laravel, Security, UUID
+tags: Security, UUID
 ---
 
 In my [previous post](https://www.jeroenvanrensen.nl/blog/dont-expose-incrementing-ids), I told why you shouldn't expose your default incrementing IDs, because of security and other issues. Luckily there are some solutions for this problem: slugs and UUIDs.

@@ -2,7 +2,7 @@
 title: Why you shouldn\'t expose your incrementing IDs
 slug: dont-expose-incrementing-ids
 publish_date: 2021-03-07
-tags: Laravel, Security, UUID
+tags: Security, UUID
 ---
 
 By default, every Laravel model has an incrementing ID. Although this makes things very easy, there are some security reasons why you shouldn't be exposing this ID to your users. In this article, I'm going to explain why.

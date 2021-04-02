@@ -2,7 +2,7 @@
 title: How to send free emails using Sendinblue
 slug: how-to-send-free-emails
 publish_date: 2021-03-01
-tags: Laravel, Email
+tags: Email
 ---
 
 Many web applications send emails, for example when someone is registered you want to send them a welcome email. Although you can do it for free using the [Gmail SMTP server](https://www.jeroenvanrensen.nl/blog/gmail-smtp-server), it is more solid to use a service like [Sendinblue](https://www.sendinblue.com/).
