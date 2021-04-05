@@ -1,7 +1,7 @@
 ---
 title: Eloquent polymorphic relationships explained (with examples)
 slug: eloquent-polymorphic-relationships
-publish_date: 2021-03-28
+publish_date: 2021-04-05
 tags: Laravel, Eloquent
 ---
 
