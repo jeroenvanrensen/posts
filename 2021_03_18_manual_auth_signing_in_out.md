@@ -14,7 +14,7 @@ These topics will be covered:
 - [Registering](https://www.jeroenvanrensen.nl/blog/manual-auth-registering)
 - **Signing in and signing out**
 - [Password confirmation](https://www.jeroenvanrensen.nl/blog/manual-auth-password-confirmation)
-- Email verification
+- [Email verification](https://www.jeroenvanrensen.nl/blog/manual-auth-email-verification)
 - Password reset
 
 **Note**: For the examples in this series, I've chosen to use controllers and blade views. But you can also use other technologies, like [Livewire](https://laravel-livewire.com/) or [Inertia.js](https://inertiajs.com/).
