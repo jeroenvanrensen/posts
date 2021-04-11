@@ -1,5 +1,5 @@
 ---
-title: Why you shouldn\'t expose your incrementing IDs
+title: 'Why you shouldn't expose your incrementing IDs'
 slug: dont-expose-incrementing-ids
 publish_date: 2021-03-07
 tags: Security, UUID
