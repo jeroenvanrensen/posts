@@ -15,7 +15,7 @@ Will give you the name of the post's author.
 
 This is an example of an Eloquent relationship. Relationships define how your models (tables) are connected. Although most are easy to understand, there are a few more complicated ones. 
 
-In this post, I'm going to show how every relationship works.
+In this post, I'm going to show how every polymorphic relationship works. You can read more about ["default" relationships here](https://www.jeroenvanrensen.nl/blog/eloquent-relationships), and click here if you want to learn [how to unit test your relationships](https://www.jeroenvanrensen.nl/blog/unit-testing-eloquent-relationships).
 
 ## One to one
 
@@ -166,7 +166,7 @@ In this example, we have three models: a `Post`, a `Video`, and a `Tag`.
 - A `Video` has many `Tag`s
 - A `Tag` belongs to many `Post`s or `Video`s
 
-For example, a `Tag` called "personal" can belong to a ``Post` **and** a `Video`.
+For example, a `Tag` called "personal" can belong to a `Post` **and** a `Video`.
 
 We may have this table structure:
 

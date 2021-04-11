@@ -15,7 +15,7 @@ Will give you the name of the post's author.
 
 This is an example of an Eloquent relationship. Relationships define how your models (tables) are connected. Although most are easy to understand, there are a few more complicated ones. 
 
-In this post, I'm going to show how every relationship works. If you want to read more about it, I've written a part 2 about all [polymorphic relationships](https://www.jeroenvanrensen.nl/blog/eloquent-polymorphic-relationships).
+In this post, I'm going to show how every relationship works. If you want to read more about it, I've written a part 2 about all [polymorphic relationships](https://www.jeroenvanrensen.nl/blog/eloquent-polymorphic-relationships). And I also wrote a tutorial about [unit testing relationships](https://www.jeroenvanrensen.nl/blog/unit-testing-eloquent-relationships).
 
 ## One to one (has one)
 
