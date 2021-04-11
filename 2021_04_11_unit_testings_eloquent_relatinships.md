@@ -72,7 +72,7 @@ public function an_address_belongs_to_a_user()
 
 ## One to many (has many)
 
-In this example we have two models: a `Post` and a `Category`.
+In this example, we have two models: a `Post` and a `Category`.
 
 - A `Post` belongs to a `Category`
 - A `Category` has many `Posts`
@@ -161,7 +161,7 @@ public function a_product_has_many_tags()
 
 ## Polymorphic: one to one
 
-In this example, we have three models: a `Post`, a `Video` and an `Image`.
+In this example, we have three models: a `Post`, a `Video`, and an `Image`.
 
 - A `Post` has one `Image`
 - A `Video` has one `Image`
@@ -223,7 +223,7 @@ public function an_image_belongs_to_a_post_or_a_video()
 
 ## Polymorphic: one to many
 
-In this example, we have three models: a `Post`, a `Video` and a `Comment`.
+In this example, we have three models: a `Post`, a `Video`, and a `Comment`.
 
 - A `Post` has many `Comment`s
 - A `Video` has many `Comment`s
@@ -288,7 +288,7 @@ public function a_comment_belongs_to_a_post_or_video()
 
 ## Polymorphic: many to many
 
-In this example, we have three models: a `Post`, a `Video` and a `Tag`.
+In this example, we have three models: a `Post`, a `Video`, and a `Tag`.
 
 - A `Post` has many `Tag`s
 - A `Video` has many `Tag`s
